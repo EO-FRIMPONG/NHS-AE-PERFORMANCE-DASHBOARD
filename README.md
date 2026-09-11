@@ -2,7 +2,7 @@
 
 An Excel dashboard which analysed NHS England Accident \& Emergency (A\&E) performance at trust level from official monthly published data. The project focuses on the 4-hour A\&E waiting time standard, extreme waits which was 12+ hours, and how performance varies by trust and region.
 
-!\[Dashboard Preview](A\&E\_dashboard\_preview.png)
+!\[Dashboard Preview](dashboard\_preview.png)
 
 
 
