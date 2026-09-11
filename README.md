@@ -81,5 +81,5 @@ https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-an
 
 ## Author
 
-Enoch Osei Frimpong — MSc Artificial Intelligence and Data Science
+Enoch Osei Frimpong - MSc Artificial Intelligence and Data Science
 
